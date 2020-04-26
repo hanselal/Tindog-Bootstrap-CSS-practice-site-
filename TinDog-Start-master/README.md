@@ -1,1 +1,1 @@
-TinDog Starting Files
+A practice website created using html, css, and bootstrap. Only front-end design, as it is intended for front-end practice. Schema and idea provided through The App Brewery web development udemy course, not original.
